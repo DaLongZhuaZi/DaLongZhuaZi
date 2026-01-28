@@ -16,16 +16,20 @@
 
 
 
-# Hi There,I'm DaLongZhuaZi!👋
+# 你好，我是大龙爪子！👋
 
 
 
 
 ## GitHub 信息
 <img src="https://github-readme-stats.vercel.app/api?username=DaLongZhuaZi&show_icons=true&theme=vue" alt="logo" height="160" align="center" width="50%" />
-<img src="https://github-profile-trophy.vercel.app/?username=DaLongZhuaZi&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; " />
+
 
 ## 语言
 <a href="https://github.com/duktig666">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaLongZhuaZi&theme=vue" />
 </a>
+
+## 赞助
+目前正在开发鸿蒙平台APP，欢迎来赞助我！
+[![爱发电](https://img.shields.io/badge/%E7%88%B1%E5%8F%91%E7%94%B5-%E2%86%92-blue)](https://afdian.com/a/dalongzz)
