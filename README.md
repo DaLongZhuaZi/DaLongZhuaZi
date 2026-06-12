@@ -1,8 +1,10 @@
-# <div align="center">👋 你好，我是大龙爪子（DaLongZhuaZi）</div>
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&center=true&vCenter=true&random=false&width=900&lines=HarmonyOS+NEXT+Developer;AI+Agent+Explorer;Open+Source+Builder;Building+%E6%BC%AB%E5%8C%A3+and+NGF" />
+# 👋 你好，我是大龙爪子
+
+### HarmonyOS NEXT Developer · AI Agent Explorer · Open Source Builder
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&center=true&vCenter=true&width=900&lines=Building+ManXia+%F0%9F%93%9A;Developing+NGF+%F0%9F%A4%96;Exploring+AI+Native+Applications;HarmonyOS+NEXT+Developer" />
 
 </div>
 
@@ -10,25 +12,122 @@
 
 ## 🚀 About Me
 
-```bash
-$ whoami
+```text
+Name      : 大龙爪子 (DaLongZhuaZi)
+Role      : Independent Developer
+Focus     : HarmonyOS NEXT / AI Agent
+Location  : Open Source World
 
-DaLongZhuaZi
+Mission:
+Build practical products and explore the future
+of AI-native application development.
+```
 
-Role:
-HarmonyOS NEXT Developer
+---
 
-Current Project:
-漫匣
+## 🎯 Current Focus
 
-Current Research:
-NGF Agent Framework
+<table>
+<tr>
 
-Focus:
-AI Agent + Rule Library + HarmonyOS
+<td width="50%">
+
+### 📚 漫匣
+
+HarmonyOS NEXT 原生漫画阅读器
+
+当前开发：
+
+* AI 推荐系统
+* 云同步
+* 阅读体验优化
+* 插件生态
+
+</td>
+
+<td width="50%">
+
+### 🤖 NGF
+
+Next Generation Framework
+
+当前开发：
+
+* Agent Workflow
+* Rule Library
+* HarmonyOS Best Practice
+* Code Generation
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## 📚 Featured Project · 漫匣
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/DaLongZhuaZi/manxia/main/entry/src/main/resources/base/media/icon.png" width="120"/>
+
+### HarmonyOS NEXT Comic Reader
+
+</div>
+
+打造 HarmonyOS 平台体验优秀的漫画阅读应用。
+
+### Roadmap
+
+* [x] 阅读器核心功能
+* [x] 收藏夹
+* [x] 阅读历史
+* [x] 数据持久化
+* [ ] AI 推荐系统
+* [ ] 云同步
+* [ ] 平板适配
+* [ ] 多设备同步
+
+---
+
+## 🤖 Featured Project · NGF
+
+Next Generation Framework
+
+Agent + Rule Library 驱动的应用开发框架。
+
+目标：
+
+让 AI 自动完成高质量 HarmonyOS 应用开发。
+
+### Core Modules
+
+* Agent Workflow
+* Rule Library
+* Knowledge Base
+* Code Generation
+* Project Scaffolding
+
+---
+
+## 📡 Development Status
+
+```yaml
+Current:
+  Project: ManXia
+
+Developing:
+  - AI Recommendation
+  - Cloud Sync
+  - Extension Ecosystem
+
+Research:
+  - Multi-Agent
+  - MCP
+  - Agent Engineering
 
 Status:
-Building Better Apps With AI 🚀
+  Building...
 ```
 
 ---
@@ -37,7 +136,7 @@ Building Better Apps With AI 🚀
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,kotlin,ts,nodejs,python,git,github,vscode,idea" />
+<img src="https://skillicons.dev/icons?i=java,kotlin,ts,nodejs,python,git,github,idea,vscode" />
 
 </div>
 
@@ -53,65 +152,17 @@ Building Better Apps With AI 🚀
 
 ---
 
-# 📚 漫匣
-
-> HarmonyOS NEXT 原生漫画阅读应用
-
-### 当前开发方向
-
-* 📖 极致阅读体验
-* ☁️ 云同步
-* 🔍 多源聚合
-* 🤖 AI推荐系统
-* 📱 全设备适配
-
-### Roadmap
-
-* [x] 基础阅读功能
-* [x] 收藏夹
-* [x] 阅读历史
-* [x] 数据持久化
-* [ ] AI推荐
-* [ ] 云同步
-* [ ] HarmonyOS平板优化
-* [ ] 多设备同步
-
----
-
-# 🤖 NGF
-
-> Next Generation Framework
-
-Agent + Rule Library 驱动的鸿蒙应用开发框架
-
-### 核心目标
-
-利用 AI Agent 自动完成高质量 HarmonyOS 应用开发
-
-### Features
-
-* Agent Workflow
-* Rule Library
-* HarmonyOS Best Practice
-* Code Generation
-* Project Scaffolding
-* Knowledge Base
-
----
-
-# 📊 GitHub Statistics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=DaLongZhuaZi&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=DaLongZhuaZi&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaLongZhuaZi&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaLongZhuaZi&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
----
-
-# 🔥 Contribution Streak
+<br>
 
 <div align="center">
 
@@ -121,7 +172,7 @@ Agent + Rule Library 驱动的鸿蒙应用开发框架
 
 ---
 
-# 📈 Contribution Graph
+## 📈 Activity Graph
 
 <div align="center">
 
@@ -131,17 +182,7 @@ Agent + Rule Library 驱动的鸿蒙应用开发框架
 
 ---
 
-# 🏆 GitHub Trophy
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=DaLongZhuaZi&theme=tokyonight&no-frame=true&row=1&column=7" />
-
-</div>
-
----
-
-# 📜 Recent Activity
+## 📜 Recent Activity
 
 <!--START_SECTION:activity-->
 
@@ -149,7 +190,7 @@ Agent + Rule Library 驱动的鸿蒙应用开发框架
 
 ---
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
 
@@ -159,53 +200,34 @@ Agent + Rule Library 驱动的鸿蒙应用开发框架
 
 ---
 
-# 📂 Featured Projects
+## 🌱 Currently Exploring
 
-## 📚 漫匣
+```text
+✓ HarmonyOS NEXT
 
-HarmonyOS NEXT 原生漫画阅读器
+✓ ArkTS
 
-### 技术栈
+✓ AI Agent
 
-* ArkTS
-* HarmonyOS NEXT
-* TypeScript
+✓ MCP
 
----
+✓ Multi-Agent Systems
 
-## 🤖 NGF
+✓ Agent Engineering
 
-Agent + Rule Library
-
-自动生成高质量鸿蒙应用
-
-### 技术栈
-
-* Python
-* Agent Workflow
-* Prompt Engineering
-* HarmonyOS
+✓ AI Native Applications
+```
 
 ---
 
-# 🌱 Currently Learning
+## ❤️ Support
 
-* Multi-Agent Systems
-* AI Coding Workflow
-* Agent Engineering
-* HarmonyOS NEXT Advanced Development
-* MCP Ecosystem
-
----
-
-# ❤️ Sponsor
-
-如果我的项目帮助到了你，欢迎支持持续开发。
+如果你喜欢漫匣或 NGF，欢迎支持持续开发。
 
 <div align="center">
 
 <a href="https://afdian.com/a/dalongzz">
-    <img src="https://img.shields.io/badge/爱发电-Support%20Me-ff69b4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/爱发电-Support%20Development-ff69b4?style=for-the-badge"/>
 </a>
 
 </div>
@@ -214,7 +236,9 @@ Agent + Rule Library
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### Thanks for visiting 👋
+
+Building products, exploring AI, and enjoying the journey.
 
 <img src="https://komarev.com/ghpvc/?username=DaLongZhuaZi&label=Profile+Views&color=0e75b6&style=flat" />
 
