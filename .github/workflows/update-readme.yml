@@ -1,4 +1,4 @@
-name: Update README Activity
+name: Update README
 
 on:
   schedule:
@@ -15,7 +15,6 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - uses: Readme-Workflows/recent-activity@v2
-        with:
-          GH_USERNAME: DaLongZhuaZi
-          MAX_LINES: 10
+      - uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
