@@ -30,11 +30,15 @@ of AI-native application development.
 <table>
 <tr>
 
-<td width="50%">
+<td width="25%">
+  
+<h3>
+  📚 <a href="https://github.com/DaLongZhuaZi/manxia">漫匣</a>
+</h3>
 
-### 📚 漫匣
-
-HarmonyOS NEXT 原生漫画阅读器
+<p>
+HarmonyOS 聚合阅读器
+</p>
 
 当前开发：
 
@@ -45,11 +49,15 @@ HarmonyOS NEXT 原生漫画阅读器
 
 </td>
 
-<td width="50%">
+<td width="25%">
 
-### 🤖 NGF
+<h3>
+  🤖 <a href="https://github.com/DaLongZhuaZi/NGF">NGF</a>
+</h3>
 
-Next Generation Framework
+<p>
+Neon Genesis Framework
+</p>
 
 当前开发：
 
@@ -57,6 +65,44 @@ Next Generation Framework
 * Rule Library
 * HarmonyOS Best Practice
 * Code Generation
+
+</td>
+
+<td width="25%">
+
+<h3>
+  ⚡ <a href="https://github.com/DaLongZhuaZi/Coder">Coder</a>
+</h3>
+
+<p>
+HarmonyOS Agent APP
+</p>
+
+当前开发：
+
+* Agent Bridge
+* 多文件预览
+* 多Provider接入
+* 变更与提交管理
+
+</td>
+
+<td width="25%">
+
+<h3>
+  🖼️ <a href="https://github.com/DaLongZhuaZi/NikkiGallery">NikkiGallery</a>
+</h3>
+
+<p>
+无限暖暖智能相册管理系统
+</p>
+
+当前开发：
+
+* AI场景、服装识别
+* 大地图相册
+* 基于UID的相册识别
+* 分享码、搭配码管理
 
 </td>
 
