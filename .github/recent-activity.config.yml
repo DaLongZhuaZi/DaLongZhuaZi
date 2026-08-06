@@ -21,8 +21,8 @@ settings:
     format: "yyyy-mm-dd HH:MM:ss"
 
 messages:
-  push: "Pushed {AMOUNT} commit(s) to {REPO}"
-  create_repo: "Created {REPO}"
+  push: "⬆️ Pushed changes to {REPO}"
+  create_repo: "📔 Created {REPO}"
   fork_repo: "Forked {FORK} from {REPO}"
   issue_opened: "Opened issue {ID} in {REPO}"
   issue_closed: "Closed issue {ID} in {REPO}"
