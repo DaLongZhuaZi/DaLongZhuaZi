@@ -228,15 +228,15 @@ Status:
 ## 📜 Recent Activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last updated: 2026-08-15 12:46:44
+Last updated: 2026-08-15 13:41:12
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed changes to [DaLongZhuaZi/NGF](https://github.com/DaLongZhuaZi/NGF)<br>
-2. ⬆️ Pushed changes to [DaLongZhuaZi/NGF](https://github.com/DaLongZhuaZi/NGF)<br>
-3. ⬆️ Pushed changes to [DaLongZhuaZi/NGF](https://github.com/DaLongZhuaZi/NGF)<br>
-4. ⬆️ Pushed changes to [DaLongZhuaZi/NGF](https://github.com/DaLongZhuaZi/NGF)<br>
-5. ⬆️ Pushed changes to [DaLongZhuaZi/NGF](https://github.com/DaLongZhuaZi/NGF)<br>
+1. ⬆️ Pushed changes to [DaLongZhuaZi/ohos-node](https://github.com/DaLongZhuaZi/ohos-node)<br>
+2. Released [v26.7.0](https://github.com/DaLongZhuaZi/ohos-node/releases/tag/v26.7.0) in [DaLongZhuaZi/ohos-node](https://github.com/DaLongZhuaZi/ohos-node)<br>
+3. ⬆️ Pushed changes to [DaLongZhuaZi/ohos-node](https://github.com/DaLongZhuaZi/ohos-node)<br>
+4. ⬆️ Pushed changes to [DaLongZhuaZi/ohos-node](https://github.com/DaLongZhuaZi/ohos-node)<br>
+5. Forked [DaLongZhuaZi/ohos-node](https://github.com/DaLongZhuaZi/ohos-node) from [hqzing/ohos-node](https://github.com/hqzing/ohos-node)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
