@@ -228,14 +228,15 @@ Status:
 ## 📜 Recent Activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last updated: 2026-09-21 13:05:15
+Last updated: 2026-09-21 18:44:10
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed changes to [DaLongZhuaZi/conductor-plugin-store](https://github.com/DaLongZhuaZi/conductor-plugin-store)<br>
-2. ⬆️ Pushed changes to [DaLongZhuaZi/manxia](https://github.com/DaLongZhuaZi/manxia)<br>
-3. ⬆️ Pushed changes to [DaLongZhuaZi/manxia](https://github.com/DaLongZhuaZi/manxia)<br>
-4. ⬆️ Pushed changes to [DaLongZhuaZi/NGF](https://github.com/DaLongZhuaZi/NGF)<br>
+1. ⬆️ Pushed changes to [DaLongZhuaZi/harmonyos-ci](https://github.com/DaLongZhuaZi/harmonyos-ci)<br>
+2. ⬆️ Pushed changes to [DaLongZhuaZi/harmonyos-ci](https://github.com/DaLongZhuaZi/harmonyos-ci)<br>
+3. ⬆️ Pushed changes to [DaLongZhuaZi/harmonyos-ci](https://github.com/DaLongZhuaZi/harmonyos-ci)<br>
+4. Released [镜像构建: api26r / image built](https://github.com/DaLongZhuaZi/harmonyos-ci/releases/tag/api26r) in [DaLongZhuaZi/harmonyos-ci](https://github.com/DaLongZhuaZi/harmonyos-ci)<br>
+5. ⬆️ Pushed changes to [DaLongZhuaZi/harmonyos-ci](https://github.com/DaLongZhuaZi/harmonyos-ci)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
